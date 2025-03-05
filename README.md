@@ -115,8 +115,3 @@ The application uses:
 
 The workflow integrates web scraping, natural language processing, and a carefully designed user interface to create a seamless experience for business development professionals.
 
-## License
-
-Copyright (C) Codebasics Inc. All rights reserved.
-
-**Additional Terms:** This software is licensed under the MIT License. However, commercial use of this software is strictly prohibited without prior written permission from the author. Attribution must be given in all copies or substantial portions of the software.
