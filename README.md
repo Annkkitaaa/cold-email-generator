@@ -1,4 +1,4 @@
-# 📧 Cold Email Generator Pro
+# 📧 Cold Email Generator 
 
 A sophisticated cold email generation tool for service companies, leveraging Groq, LangChain, and Streamlit. This application allows business development professionals to create highly personalized cold emails based on job listings from company career pages, with AI-powered company research and intelligent portfolio matching.
 
