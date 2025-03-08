@@ -19,39 +19,34 @@ This tool helps Mohan create personalized, targeted emails that increase respons
 
 ## Key Features
 
-### 📱 Sleek Purple UI
-- Modern, visually appealing interface with a professional purple color scheme
-- Organized into intuitive tabs for better workflow
-- Card-based layout for better information hierarchy
-
-### 🧠 AI-Powered Email Generation
+###  AI-Powered Email Generation
 - Extract job details from any careers page URL
 - Choose from multiple email styles:
   - **Formal**: Professional and structured for traditional organizations
   - **Conversational**: Friendly and personable for startups and modern companies
   - **Problem-Solution**: Identifies pain points and positions AtliQ as the solution
 
-### 🔍 Automatic Company Research
+###  Automatic Company Research
 - Extracts company values, initiatives, and potential pain points automatically
 - Intelligently incorporates relevant company details into emails
 - Creates more targeted and personalized outreach
 
-### 📂 Portfolio Management
+###  Portfolio Management
 - Manage and update your portfolio showcases
 - Add new portfolio items with technology stacks and links
 - Intelligent matching of portfolio examples based on job requirements
 
-### 🔄 Follow-up Email Generation
+###  Follow-up Email Generation
 - Generate follow-up emails based on original outreach
 - Adds new value and gently requests a response
 - Maintains professional tone without being pushy
 
-### 📚 Email History Tracking
+###  Email History Tracking
 - Save generated emails for future reference
 - Review past outreach efforts by date, company, and job title
 - Generate follow-ups from historical emails
 
-### ⚙️ Customization Options
+### Customization Options
 - Personalization with recipient name
 - Call-to-action toggle
 - Competitor comparison options
